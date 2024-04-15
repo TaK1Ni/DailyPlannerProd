@@ -1,0 +1,30 @@
+pluginManagement {
+    repositories {
+        maven {
+            url 'https://plugins.gradle.org/m2/'
+        }
+        maven {
+            url 'https://dl.bintray.com/realm/maven'
+        }
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        jcenter()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        maven {
+            url 'https://plugins.gradle.org/m2/'
+        }
+        maven {
+            url 'https://dl.bintray.com/realm/maven'
+        }
+        google()
+        mavenCentral()
+
+    }
+}
+rootProject.name = "kursproj"
+include ':app'

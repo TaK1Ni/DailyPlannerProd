@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DailyPlannerProd</string>
+    <string name="mainPicture">Picture in the main screen</string>
+    <string name="logoOfApp">DailyPlannerProd</string>
+    <string name="logoOfNote">Заметки</string>
+    <string name="dailyMain">Ежедневник</string>
+    <string name="info">Информация</string>
+    <string name="notesMain">Заметки</string>
+    <string name="gradientBottomMain">Notes button in the main screen</string>
+    <string name="gradientTopMain">Notes button in the main screen</string>
+    <string name="rectangle">Rectangle on the top</string>
+    <string name="title_activity_allnotes">allnotes</string>
+    <string name="today">Сегодня</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="title">Title</string>
+
+    <string name="inf1">Приложение было создано для попытки реализовать ежедневник на Android</string>
+    <string name="inf2">Разработчик TaK1Ni</string>
+
+    <string-array name="types">
+        <item>Сегодня</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+
+</resources>
